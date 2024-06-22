@@ -1,0 +1,3 @@
+# Structural Design Patterns
+
+Structural Design Pattern'ların anlatıldığı makaleye ulaşmak için [Structural Design Pattern Nedir ve Türleri Nelerdir?](https://alikarahisar.com/blog/structural-design-pattern-nedir-ve-turleri-nelerdir/) linkini takip ederek içeriğe ulaşabilirsin. Eğer Design pattern hakkında genel bilgi almak istersen de [Design Pattern Nedir?](https://alikarahisar.com/blog/design-pattern-tasarim-desenleri/) makalesini okuyabilirsin.
